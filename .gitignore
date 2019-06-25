@@ -1,4 +1,9 @@
 # Byte-compiled / optimized / DLL files
+*.txt
+*.csv
+*.sqlite
+__init__*
+
 __pycache__/
 *.py[cod]
 *$py.class
